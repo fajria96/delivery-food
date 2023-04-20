@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+https://img.freepik.com/free-photo/hand-holding-sushi-with-chopsticks_1368-6281.jpg?w=826&t=st=1681120411~exp=1681121011~hmac=b64c310ef081631623293307b1ade679c8c181d90ebb651f8a972e1bccaa615b
